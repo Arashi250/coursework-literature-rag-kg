@@ -51,6 +51,11 @@ git clone https://github.com/Arashi250/literature-rag-kg.git
 cd literature-rag-kg
 ```
 
+### Run
+```bash
+python main.py
+```
+
 ## 📜 License
 
 This project is licensed under the MIT License.
