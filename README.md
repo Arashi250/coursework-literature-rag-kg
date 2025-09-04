@@ -47,7 +47,7 @@ These can be directly imported into **Neo4j Aura** for visualization.
 
 ### Installation
 ```bash
-git clone https://github.com/Arashi250/literature-rag-kg.git
+git clone https://github.com/Arashi250/coursework-literature-rag-kg.git
 cd literature-rag-kg
 ```
 
